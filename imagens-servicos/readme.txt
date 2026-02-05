@@ -6,7 +6,7 @@ Exemplo:
     {
       "title": "Produtos disponiveis nacionalmente",
       "subtitle": "Poupas de Frutas Congeladas",
-      "image": "https://servictor.github.io/agrmx/imagens-servicos/poupas-de-frutas.wisp",
+      "image": "https://servictor.github.io/agrmx/imagens-servicos/poupas-de-frutas.webp",
       "order": 1
     },
     {...}
