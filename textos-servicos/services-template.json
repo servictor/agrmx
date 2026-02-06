@@ -1,28 +1,28 @@
 [   {
-      "title": "Serviços internacionais de (..)",
-      "subtitle": "Serviço (..)",
-      "image": "https://servictor.github.io/agrmx/imagens-servicos/foto-do-aviao.png",
+      "title": "Fretes Aéreos (..)",
+      "subtitle": "Importações com Fretes Aéreos (..)",
+      "image": "https://servictor.github.io/agrmx/imagens-servicos/frete-aereo.webp",
       "order": 0
     },
     
     {
-      "title": "Produtos disponiveis nacionalmente",
+      "title": "Disponiveis Nacionalmente",
       "subtitle": "Polpas de Frutas Congeladas",
       "image": "https://servictor.github.io/agrmx/imagens-servicos/polpa-frutas.webp",
       "order": 1
     },
     
     {
-      "title": "Customs Brokerage",
-      "subtitle": "Smooth import/export processes",
-      "image": "https://servictor.github.io/agrmx/imagens-servicos/imagem2.png",
+      "title": "Frete Marítmo",
+      "subtitle": "Importações com Fretes Marítimos",
+      "image": "https://servictor.github.io/agrmx/imagens-servicos/porto-itajai.webp",
       "order": 2
     },
     
     {
-      "title": "Trade Intermediation",
-      "subtitle": "Helping you close deals globally",
-      "image": "/serviceimages/image3.png",
+      "title": "Agro Negócio",
+      "subtitle": "Negociações de Comodities Agrícolas",
+      "image": "https://servictor.github.io/agrmx/imagens-servicos/agro-negocio.webp",
       "order": 3
     }
 ]
